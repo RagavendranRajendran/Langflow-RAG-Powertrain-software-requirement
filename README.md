@@ -1,13 +1,13 @@
 # Langflow-RAG-Powertrain-software-requirement
 
-##Overview
+## Overview
 
 This project implements a Retrieval-Augmented Generation (RAG) agent using Langflow, designed to assist with powertrain software updates for automotive systems. The agent is capable of analyzing code files and answering questions related to specific requirements for powertrain software updates. By leveraging natural language processing and document parsing, the agent provides accurate and context-aware responses based on the content of the uploaded files.
 Intended use case:
 - For example, given a software requirement, the Agent can analyze through the code files and give specific inforomation on which code file to modify to meet the software requirements
  
 
-##Prerequisites
+## Prerequisites
 
 1. Python 3.8 or higher
 2. Langflow framework
